@@ -737,8 +737,15 @@ exemplary_troops = {
 rancho = {
     life_rating = 0.25
     immigrant_attract = 0.75
-    assimilation_rate = -0.5
+    assimilation_rate = 0.5
     farm_RGO_eff = 0.5
+    icon = 9
+}
+
+Home_of_Brave = {
+    immigrant_attract = 5.5
+    global_assimilation_rate = 3
+    population_growth = 0.005
     icon = 9
 }
 
